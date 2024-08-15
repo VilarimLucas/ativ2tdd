@@ -32,6 +32,8 @@ git push origin desenvolvimento/home
 ```
 * LUCAS: contribuiu com o desenvovimento da Home, foi interessante realizar a mesclagem para a main antes de enviar o repositório para o Github. Fiz um teste de estilo colocando os código internos, depois foi transcrito no arquivo styles.css .
 
+* MATHEUS: contribuiu com o desenvolvimento de sobre, foi um grande aprendizado utilizar a mesclagem, precisamos apenas alinhar oque cada um iria alterar, para n correr conflitos e alterar as mesmas coisas.
+
 ##### Mesclagem das Ramificações
 ```bash
 git checkout main
