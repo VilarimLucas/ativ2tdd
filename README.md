@@ -34,6 +34,8 @@ git push origin desenvolvimento/home
 
 * MATHEUS: contribuiu com o desenvolvimento de sobre, foi um grande aprendizado utilizar a mesclagem, precisamos apenas alinhar oque cada um iria alterar, para n correr conflitos e alterar as mesmas coisas.
 
+* DANILO: contribuiu com o desenvolvimento de portifólio, foi legal testar os merges das branchs e ver como ficaria o projeto final.
+
 ##### Mesclagem das Ramificações
 ```bash
 git checkout main
