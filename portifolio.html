@@ -99,25 +99,32 @@
         footer p {
             margin: 0;
         }
+
+        a {
+            color: inherit; /* Herdar a cor do elemento pai */
+            text-decoration: none; /* Remover o sublinhado */
+        }   
     </style>
 </head>
 
 <body>
     <header>
-        <h1>Patinho Apostas</h1>
+        <a href="./index.html">
+            <h1>Patinho Apostas</h1>
+        </a>
     </header>
 
     <nav>
-        <a href="#about">Sobre Nós</a>
+        <a href="./sobre.html">Sobre Nós</a>
         <a href="#services">Serviços</a>
         <a href="#testimonials">Depoimentos</a>
-        <a href="#contact">Contato</a>
+        <a href="./contato.html">Contato</a>
     </nav>
 
     <div class="container">
         <section id="about" class="about">
-            <h2>Sobre Nós</h2>
-            <img src="https://via.placeholder.com/150" alt="Sobre Nós">
+            <h2>Patinho Apostas</h2>
+            <img src="./imagens/patinho.webp" alt="Patinho">
             <p>
                 No Patinho Apostas, oferecemos uma plataforma segura e confiável para todos os tipos de apostas esportivas.
                 Nossa missão é proporcionar a melhor experiência de apostas online, com ótimas odds e suporte de qualidade.
@@ -144,13 +151,6 @@
                 "Sempre tive uma experiência incrível com o Patinho Apostas. Super recomendo!"
                 <br> - Maria Santos
             </blockquote>
-        </section>
-
-        <section id="contact" class="contact">
-            <h2>Contato</h2>
-            <p>Entre em contato conosco:</p>
-            <p>Email: contato@patinhoapostas.com</p>
-            <p>Telefone: (11) 1234-5678</p>
         </section>
     </div>
 
