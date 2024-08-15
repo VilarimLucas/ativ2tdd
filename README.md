@@ -36,6 +36,9 @@ git push origin desenvolvimento/home
 
 * DANILO: contribuiu com o desenvolvimento de portifólio, foi legal testar os merges das branchs e ver como ficaria o projeto final.
 
+* LUIZ: contribuiu com o desenvolvimento da tela de contatos, foi bastante interessante a questão do merge entre as branchs, o que facilita muito no desenvolvimento.
+
+
 ##### Mesclagem das Ramificações
 ```bash
 git checkout main
